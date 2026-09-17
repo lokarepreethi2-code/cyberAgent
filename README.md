@@ -1,5 +1,5 @@
 
-# AI-powered Autonomous Cybersecurity Incident Response and Threat Mitigation Agent (CyberAgent)
+# AI-powered Autonomous Cybersecurity Incident Response and Threat Mitigation Agent 
 
 CyberAgent is a lightweight, real-time security ingestion and threat detection engine built with FastAPI. It parses raw system and server logs to detect security threats (such as Path Traversal attacks) and returns structured analysis for automated incident response.
 
